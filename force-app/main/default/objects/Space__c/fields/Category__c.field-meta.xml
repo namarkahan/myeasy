@@ -26,9 +26,9 @@
                 <label>Cooking Classroom</label>
             </value>
             <value>
-                <fullName>Drawing / Watercolor Studio</fullName>
+                <fullName>Drawing/Watercolor Studio</fullName>
                 <default>false</default>
-                <label>Drawing / Watercolor Studio</label>
+                <label>Drawing/Watercolor Studio</label>
             </value>
             <value>
                 <fullName>Exploration Lab</fullName>
@@ -36,9 +36,9 @@
                 <label>Exploration Lab</label>
             </value>
             <value>
-                <fullName>Game Room / Arcade</fullName>
+                <fullName>Game Room/Arcade</fullName>
                 <default>false</default>
-                <label>Game Room / Arcade</label>
+                <label>Game Room/Arcade</label>
             </value>
             <value>
                 <fullName>Music Room</fullName>
